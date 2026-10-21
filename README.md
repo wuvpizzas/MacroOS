@@ -1,3 +1,7 @@
+
+<img width="256" height="256" alt="download" src="https://github.com/user-attachments/assets/9694e392-34fb-4abd-94c4-9fd42908d249" />
+
+
 # GitHub release copy — MacroOS v0.2.0
 
 ## Repository description
