@@ -30,4 +30,4 @@ Macro recordings can contain key codes. The optional text expander watches recen
 
 **Platform:** Windows 10 or 11, x64  
 **Package:** self-contained; no separate .NET installation required  
-**License:** not selected yet; a `LICENSE` file still needs to be added to the repository.
+**License:** MIT Licensed
