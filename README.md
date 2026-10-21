@@ -23,7 +23,7 @@ MacroOS is a Windows desktop app for recording mouse and keyboard actions and tu
 This preview also includes a searchable macro library, gaming profiles, optional text shortcuts, scheduled runs, and seven themes. Settings and recordings are stored on your PC; the app does not send telemetry.
 
 ### Download and run
-
+Go to `releases` and select the newest version.
 Download `MacroOS-v0.2.0-win-x64.zip`, extract the folder, and open `MacroOS.exe`. The package includes the .NET runtime and is for Windows 10 or 11, 64-bit. Keep the executable and README together.
 
 ### Before you use it
